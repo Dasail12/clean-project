@@ -3,3 +3,5 @@ Some text in the new file
 Removing bunch of text 
 
 Adding nex line 
+
+Text from main before conflicts
