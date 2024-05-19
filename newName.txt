@@ -1,9 +1,13 @@
 Some text in the new file
 
+New line from main
+
 Removing bunch of text 
 
-Adding nex line 
+More conflicts from main
 
 Text from main before conflicts
 
 Another Text from main branch
+
+Text from main for more conflicts
