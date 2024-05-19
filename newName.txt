@@ -7,3 +7,5 @@ Extra text
 Another extra text
 
 Text from feature branch FF
+
+Text from feaure branch NO ff
