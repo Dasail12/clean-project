@@ -5,3 +5,5 @@ Removing bunch of text
 Adding nex line 
 
 Text from main before conflicts
+
+Text from feature branch
