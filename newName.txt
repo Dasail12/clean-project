@@ -9,3 +9,5 @@ Another extra text
 Text from feature branch FF
 
 Text from feaure branch NO ff
+
+Adding line from feature branch
