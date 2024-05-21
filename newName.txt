@@ -1,14 +1,1 @@
 Some text in the new file
-
-Another text from myfeature
-Removing bunch of text 
-
-More conflicts from main
-
-
-Text from main before conflicts
-
-Text from feature branch
-
-
-Some more text from editor itsefl
